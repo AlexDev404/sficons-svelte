@@ -1,0 +1,276 @@
+/* Rounded */
+/* ultralight, thin, light, regular, medium, semibold, bold, heavy, black */
+
+/* ultralight */
+@font-face {
+  font-family: "SF Pro Rounded Ultralight";
+  src:
+    url("./Fonts/Rounded/woff2/SF-Pro-Rounded-Ultralight.woff2") format("woff2"),
+    url("./Fonts/Rounded/SF-Pro-Rounded-Ultralight.otf") format("otf");
+}
+
+/* thin */
+@font-face {
+  font-family: "SF Pro Rounded Thin";
+  src:
+    url("./Fonts/Rounded/woff2/SF-Pro-Rounded-Thin.woff2") format("woff2"),
+    url("./Fonts/Rounded/SF-Pro-Rounded-Thin.otf") format("otf");
+}
+
+/* light */
+@font-face {
+  font-family: "SF Pro Rounded Light";
+  src:
+    url("./Fonts/Rounded/woff2/SF-Pro-Rounded-LIght.woff2") format("woff2"),
+    url("./Fonts/Rounded/SF-Pro-Rounded-Light.otf") format("otf");
+}
+
+/* regular */
+@font-face {
+  font-family: "SF Pro Rounded Regular";
+  src:
+    url("./Fonts/Rounded/woff2/SF-Pro-Rounded-Regular.woff2") format("woff2"),
+    url("./Fonts/Rounded/SF-Pro-Rounded-Regular.otf") format("otf");
+}
+
+/* medium */
+@font-face {
+  font-family: "SF Pro Rounded Medium";
+  src:
+    url("./Fonts/Rounded/woff2/SF-Pro-Rounded-Medium.woff2") format("woff2"),
+    url("./Fonts/Rounded/SF-Pro-Rounded-Medium.otf") format("otf");
+}
+
+/* semibold */
+@font-face {
+  font-family: "SF Pro Rounded Semibold";
+  src:
+    url("./Fonts/Rounded/woff2/SF-Pro-Rounded-Semibold.woff2") format("woff2"),
+    url("./Fonts/Rounded/SF-Pro-Rounded-Semibold.otf") format("otf");
+}
+
+/* bold */
+@font-face {
+  font-family: "SF Pro Rounded Bold";
+  src:
+    url("./Fonts/Rounded/woff2/SF-Pro-Rounded-Bold.woff2") format("woff2"),
+    url("./Fonts/Rounded/SF-Pro-Rounded-Bold.otf") format("otf");
+}
+
+/* heavy */
+@font-face {
+  font-family: "SF Pro Rounded Heavy";
+  src:
+    url("./Fonts/Rounded/woff2/SF-Pro-Rounded-Heavy.woff2") format("woff2"),
+    url("./Fonts/Rounded/SF-Pro-Rounded-Heavy.otf") format("otf");
+}
+
+/* black */
+@font-face {
+  font-family: "SF Pro Rounded Black";
+  src:
+    url("./Fonts/Rounded/woff2/SF-Pro-Rounded-Black.woff2") format("woff2"),
+    url("./Fonts/Rounded/SF-Pro-Rounded-Black.otf") format("otf");
+}
+
+/* Display */
+/* ultralight, thin, light, regular, medium, semibold, bold, heavy, black */
+
+/* ultralight */
+@font-face {
+  font-family: "SF Pro Display Ultralight";
+  src:
+    url("./Fonts/Display/woff2/SF-Pro-Display-Ultralight.woff2") format("woff2"),
+    url("./Fonts/Display/SF-Pro-Display-Ultralight.otf") format("otf");
+}
+
+/* thin */
+@font-face {
+  font-family: "SF Pro Display Thin";
+  src:
+    url("./Fonts/Display/woff2/SF-Pro-Display-Thin.woff2") format("woff2"),
+    url("./Fonts/Display/SF-Pro-Display-Thin.otf") format("otf");
+}
+/* thin */
+@font-face {
+  font-family: "SF Pro Display Light";
+  src:
+    url("./Fonts/Display/woff2/SF-Pro-Display-Light.woff2") format("woff2"),
+    url("./Fonts/Display/SF-Pro-Display-Light.otf") format("otf");
+}
+/* regular */
+@font-face {
+  font-family: "SF Pro Display Regular";
+  src:
+    url("./Fonts/Display/woff2/SF-Pro-Display-Regular.woff2") format("woff2"),
+    url("./Fonts/Display/SF-Pro-Rounded-Regular.otf") format("otf");
+}
+
+/* medium */
+@font-face {
+  font-family: "SF Pro Display Medium";
+  src:
+    url("./Fonts/Display/woff2/SF-Pro-Display-Medium.woff2") format("woff2"),
+    url("./Fonts/Display/SF-Pro-Display-Medium.otf") format("otf");
+}
+/* semibold */
+@font-face {
+  font-family: "SF Pro Display Semibold";
+  src:
+    url("./Fonts/Display/woff2/SF-Pro-Display-Semibold.woff2") format("woff2"),
+    url("./Fonts/Display/SF-Pro-Display-Semibold.otf") format("otf");
+}
+/* bold */
+@font-face {
+  font-family: "SF Pro Display Bold";
+  src:
+    url("./Fonts/Display/woff2/SF-Pro-Display-Bold.woff2") format("woff2"),
+    url("./Fonts/Display/SF-Pro-Display-Bold.otf") format("otf");
+}
+/* thin */
+@font-face {
+  font-family: "SF Pro Display Heavy";
+  src:
+    url("./Fonts/Display/woff2/SF-Pro-Display-Heavy.woff2") format("woff2"),
+    url("./Fonts/Display/SF-Pro-Display-Heavy.otf") format("otf");
+}
+/* black */
+@font-face {
+  font-family: "SF Pro Display Black";
+  src:
+    url("./Fonts/Display/woff2/SF-Pro-Display-Black.woff2") format("woff2"),
+    url("./Fonts/Display/SF-Pro-Display-Black.otf") format("otf");
+}
+
+/* Exposed Styles */
+/* Rounded */
+/* ultralight, thin, light, regular, medium, semibold, bold, heavy, black */
+
+/* ultralight */
+.text-sf-pro-rounded-ultralight {
+  font-family: "SF Pro Rounded Ultralight", Arial, Helvetica, sans-serif;
+}
+/* thin */
+.text-sf-pro-rounded-thin {
+  font-family: "SF Pro Rounded Thin", Arial, Helvetica, sans-serif;
+}
+/* light */
+.text-sf-pro-rounded-light {
+  font-family: "SF Pro Rounded Light", Arial, Helvetica, sans-serif;
+}
+/* regular */
+.text-sf-pro-rounded {
+  font-family: "SF Pro Rounded Regular", Arial, Helvetica, sans-serif;
+}
+/* medium */
+.text-sf-pro-rounded-medium {
+  font-family: "SF Pro Rounded Medium", Arial, Helvetica, sans-serif;
+}
+/* semibold */
+.text-sf-pro-rounded-semibold {
+  font-family: "SF Pro Rounded Semibold", Arial, Helvetica, sans-serif;
+}
+/* bold */
+.text-sf-pro-rounded-bold {
+  font-family: "SF Pro Rounded Bold", Arial, Helvetica, sans-serif;
+}
+/* heavy */
+.text-sf-pro-rounded-heavy {
+  font-family: "SF Pro Rounded Heavy", Arial, Helvetica, sans-serif;
+}
+/* black */
+.text-sf-pro-rounded-black {
+  font-family: "SF Pro Rounded Black", Arial, Helvetica, sans-serif;
+}
+
+/* Display */
+/* ultralight, thin, semibold, regular, medium, light, heavy, bold, black */
+/* ultralight, thin, light, regular, medium, semibold, bold, heavy, black */
+
+/* ultralight */
+.text-sf-pro-ultralight {
+  font-family: "SF Pro Display Ultralight", Arial, Helvetica, sans-serif;
+}
+/* thin */
+.text-sf-pro-thin {
+  font-family: "SF Pro Display Thin", Arial, Helvetica, sans-serif;
+}
+/* light */
+.text-sf-pro-light {
+  font-family: "SF Pro Display Light", Arial, Helvetica, sans-serif;
+}
+/* regular */
+.text-sf-pro {
+  font-family: "SF Pro Rounded Regular", Arial, Helvetica, sans-serif;
+}
+/* medium */
+.text-sf-pro-medium {
+  font-family: "SF Pro Display Medium", Arial, Helvetica, sans-serif;
+}
+/* semibold */
+.text-sf-pro-semibold {
+  font-family: "SF Pro Display Semibold", Arial, Helvetica, sans-serif;
+}
+/* bold */
+.text-sf-pro-bold {
+  font-family: "SF Pro Display Bold", Arial, Helvetica, sans-serif;
+}
+/* heavy */
+.text-sf-pro-heavy {
+  font-family: "SF Pro Display Heavy", Arial, Helvetica, sans-serif;
+}
+/* black */
+.text-sf-pro-black {
+  font-family: "SF Pro Display Black", Arial, Helvetica, sans-serif;
+}
+
+/* Font sizes (credit: https://tailwindcss.com/docs/font-size) */
+
+.text-xs {
+  font-size: 0.75rem; /* 12px */
+  line-height: 1rem; /* 16px */
+}
+.text-sm {
+  font-size: 0.875rem; /* 14px */
+  line-height: 1.25rem; /* 20px */
+}
+.text-md { /* MODIFIED */
+  font-size: 1rem; /* 16px */
+  line-height: 1.5rem; /* 24px */
+}
+.text-lg {
+  font-size: 1.125rem; /* 18px */
+  line-height: 1.75rem; /* 28px */
+}
+.text-xl {
+  font-size: 1.25rem; /* 20px */
+  line-height: 1.75rem; /* 28px */
+}
+.text-2xl {
+  font-size: 1.5rem; /* 24px */
+  line-height: 2rem; /* 32px */
+}
+.text-3xl {
+  font-size: 1.875rem; /* 30px */
+  line-height: 2.25rem; /* 36px */
+}
+.text-4xl {
+  font-size: 2.25rem; /* 36px */
+  line-height: 2.5rem; /* 40px */
+}
+.text-5xl {
+  font-size: 3rem; /* 48px */
+  line-height: 1;
+}
+.text-6xl {
+  font-size: 3.75rem; /* 60px */
+  line-height: 1;
+}
+.text-7xl {
+  font-size: 4.5rem; /* 72px */
+  line-height: 1;
+}
+.text-8xl {
+  font-size: 6rem; /* 96px */
+  line-height: 1;
+}

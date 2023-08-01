@@ -1,0 +1,29 @@
+{
+  "name": "@alexdev404/sficons-svelte",
+  "version": "0.1.1",
+  "description": "Apple San Francisco Icons 5 for Svelte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexDev404/sficons-svelte.git"
+  },
+  "keywords": [
+    "apple",
+    "sficons",
+    "svelte",
+    "svelte-icons",
+    "icons"
+  ],
+  "author": "AlexDev404",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/AlexDev404/sficons-svelte/issues"
+  },
+  "homepage": "https://github.com/AlexDev404/sficons-svelte#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
