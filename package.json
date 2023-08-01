@@ -25,5 +25,8 @@
   "homepage": "https://github.com/AlexDev404/sficons-svelte#readme",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "svelte": "^4.1.2"
   }
 }
