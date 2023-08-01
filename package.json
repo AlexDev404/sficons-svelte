@@ -1,6 +1,6 @@
 {
   "name": "@alexdev404/sficons-svelte",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Apple San Francisco Icons 5 for Svelte",
   "main": "index.js",
   "scripts": {
