@@ -1,5 +1,6 @@
 // main.ts
 import data from "./symbolsData";
+import { type FontWeight, type FontSize, type SFIcon_ } from "./types.d";
 import { SvelteComponent } from "svelte";
 
 const nameToSymbolLookup: Record<string, string> = {};
@@ -16,10 +17,10 @@ export function getSFSymbolByName(name: string): string | undefined {
 
 // Define the props interface for the SFIcon component
 interface SFIconProps {
-  icon: string;
+  icon: SFIcon_;
   class?: string;
-  size?: string;
-  weight?: string;
+  size?: FontSize;
+  weight?: FontWeight;
   color?: string;
   rounded?: boolean;
 }
