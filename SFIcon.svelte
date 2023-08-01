@@ -56,7 +56,7 @@
   export let size: FontSize = "3xl"; // xs, sm, md, lg, xl, 2xl, 3xl, 4xl, 5xl, 6xl, 7xl, 8xl
 
   /** @description The color of the icons. Only HEX color codes are supported. */
-  export let color: string | undefined;
+  export let color: string | undefined = undefined; // Stop complaining
   /**
    * @description The name of the icon to display. You can use [hotpot.ai](https://hotpot.ai/free-icons?s=sfSymbols) to search for some, replacing the periods (".") for dashes ("-")
    *
